@@ -1,0 +1,2 @@
+# Smart
+Croping data
